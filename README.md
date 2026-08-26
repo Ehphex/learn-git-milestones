@@ -226,7 +226,7 @@ Step | Description | Completed
 --- | --- | ---
 2-1 | 1st Favorite emoji | 🤣
 2-2 | [commit #1](https://github.com/Ehphex/learn-git-milestones/edit/main/README.md) |
-2-3 | Link to markdown tables docs |
+2-3 | [Commit #3](https://www.geeksforgeeks.org/html/markdown-tables/)|
 2-4 | What does `log` do? |
 3-1 | 2nd Favorite emoji |
 3-2 | Link to `commit #2 from Github Desktop` |
