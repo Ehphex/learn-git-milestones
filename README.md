@@ -229,7 +229,7 @@ Step | Description | Completed
 2-3 | [Commit #3](https://www.geeksforgeeks.org/html/markdown-tables/)|
 2-4 | Git log lets you see the commit history |
 3-1 | :\ |
-3-2 | Link to `commit #2 from Github Desktop` |
+3-2 | Link to [markdown](https://guides.github.com/features/mastering-markdown/)` |
 4-1 | Full path to your working directory |
 4-2 | Link to `commit #3 from CLI` |
 5-1 | Link to `first-website` github.com repo page |
