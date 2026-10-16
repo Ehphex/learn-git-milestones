@@ -226,12 +226,12 @@ Step | Description | Completed
 --- | --- | ---
 2-1 | 1st Favorite emoji | 🤣
 2-2 | [commit #1](https://github.com/Ehphex/learn-git-milestones/edit/main/README.md) |
-2-3 | [Commit #3](https://www.geeksforgeeks.org/html/markdown-tables/)|
+2-3 | [Commit #2](https://www.geeksforgeeks.org/html/markdown-tables/)|
 2-4 | Git log lets you see the commit history |
 3-1 | :\ |
 3-2 | Link to [markdown](https://guides.github.com/features/mastering-markdown/)` |
 4-1 | /c/Users/yoloi/Documents/GitHub/learn-git-milestones |
-4-2 | Link to `commit #3 from CLI` | I followed the command line instructions but there was always nothing to commit
+4-2 | [commit #3](https://github.com/Ehphex/learn-git-milestones/commit/cd95b2d123372e39388f9777912048327eb29685I)|I followed the command line instructions but there was always nothing to commit
 5-1 | Link to `first-website` github.com repo page |
 6-1 | Link to `first-website` github.io "project site" |
 
