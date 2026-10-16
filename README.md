@@ -232,8 +232,8 @@ Step | Description | Completed
 3-2 | Link to [markdown](https://guides.github.com/features/mastering-markdown/)` |
 4-1 | /c/Users/yoloi/Documents/GitHub/learn-git-milestones |
 4-2 | [commit #3](https://github.com/Ehphex/learn-git-milestones/commit/cd95b2d123372e39388f9777912048327eb29685I)|I followed the command line instructions but there was always nothing to commit
-5-1 | Link to `first-website` github.com repo page | [3First-Website Link](https://github.com/Ehphex/first-websites)
-6-1 | Link to `first-website` github.io "project site" |
+5-1 | Link to `first-website` github.com repo page | [First-Website Link](https://github.com/Ehphex/first-websites)
+6-1 | Link to `first-website` github.io "project site" |[First-Website Site Link](https://ehphex.github.io/first-websites/)
 
 
 
